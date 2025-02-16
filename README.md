@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fawaz Rizwan</h1>
 <h3 align="center">A passionate Computer Science Student at the University of Guelph</h3>
 
-- 🔭 I’m currently working on [OlympiPredict](https://github.com/faizm10/CodeDexHackathon)
-
-- 🌱 I’m currently learning **Databases**
+- 🔭 I’m currently working on [DealSniper](https://github.com/fawazriz/DealSniperApp)
 
 - 📫 How to reach me **fawazriz2014@gmail.com**
 
