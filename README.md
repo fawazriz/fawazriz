@@ -4,7 +4,7 @@ Third Year Computer Science Student @ University of Guelph
 </h3>
 
 <p align="center">
-🌐 <a href="https://fawazriz.vercel.app" target="_blank"><strong>Portfolio</strong></a> •
+🌐 <a href="https://fawaz-rizwan.vercel.app/" target="_blank"><strong>Portfolio</strong></a> •
 💼 <a href="https://linkedin.com/in/fawazriz" target="_blank"><strong>LinkedIn</strong></a> •
 📫 <strong>fawazriz2014@gmail.com</strong>
 </p>
