@@ -1,76 +1,53 @@
-<h1 align="center">Hi 👋, I'm Fawaz Rizwan</h1>
-<h3 align="center">
-Third Year Computer Science Student @ University of Guelph
-</h3>
+<div align="center">
 
-<p align="center">
-🌐 <a href="https://fawaz-rizwan.vercel.app/" target="_blank"><strong>Portfolio</strong></a> •
-💼 <a href="https://linkedin.com/in/fawazriz" target="_blank"><strong>LinkedIn</strong></a> •
-📫 <strong>fawazriz2014@gmail.com</strong>
-</p>
 
----
+# FAWAZ RIZWAN
+### Full-Stack Developer · CS @ University of Guelph
 
-<h3 align="left">🚀 Projects</h3>
+[![Portfolio](https://img.shields.io/badge/Portfolio-d4f03c?style=for-the-badge&logo=vercel&logoColor=000000)](https://fawaz-rizwan.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=d4f03c)](https://linkedin.com/in/fawazriz)
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=d4f03c)](mailto:fawazriz2014@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Internships-d4f03c?style=for-the-badge&logoColor=000000)](https://fawaz-rizwan.vercel.app/)
 
-<ul>
-  <li>
-    <strong>TenantShield</strong> – AI-powered assistant for Canadian renters helping users understand tenant rights and rental issues  
-    <br/>
-    <em>Next.js, React, Node.js, APIs, TailwindCSS</em>  
-    <br/>
-    🔗 <a href="https://github.com/fawazriz/TenantShield" target="_blank">Repository</a>
-  </li>
-  <br/>
-  <li>
-    <strong>OlympiPredict</strong> – Data-driven project predicting Olympic outcomes using statistical and ML techniques  
-    <br/>
-    <em>Python, Pandas, Data Analysis, Machine Learning</em>  
-    <br/>
-    🔗 <a href="https://github.com/fawazriz/OlympiPredict" target="_blank">Repository</a>
-  </li>
-  <br/>
-  <li>
-    <strong>EduPro</strong> – Education-focused web application designed to streamline learning workflows  
-    <br/>
-    <em>React, Next.js, JavaScript, TailwindCSS</em>  
-    <br/>
-    🔗 <a href="https://github.com/fawazriz/EduPro" target="_blank">Repository</a>
-  </li>
-</ul>
+</div>
 
 ---
 
-<h3 align="left">🛠️ Languages & Tools</h3>
+### 🚀 Projects
 
-<p align="left">
-  <!-- Frontend -->
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
-
-  <!-- Backend -->
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/></a>
-  <a href="https://www.w3schools.com/sql/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/API" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/></a>
-
-  <!-- Systems & Tools -->
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/></a>
-</p>
+| # | Project | Description | Stack |
+|---|---------|-------------|-------|
+| 001 | [**DealSniper**](https://github.com/fawazriz/DealSniperApp) | Full-stack price tracker — monitor products, set target prices, real-time deals via web scraping | React · Node.js · PostgreSQL · Puppeteer · JWT |
+| 002 | [**TenantShield**](https://github.com/fawazriz/TenantShield) | AI assistant for Canadian renters — understand tenant rights and navigate rental issues | Next.js · React · Gemini · TailwindCSS |
+| 003 | [**OlympiPredict**](https://github.com/fawazriz/OlympiPredict) | Data-driven prediction of Olympic outcomes using feature engineering and ML modeling | Python · Pandas · Scikit-learn |
+| 004 | [**EduPro**](https://github.com/fawazriz/EduPro) | Education web app to streamline learning workflows with modern UI and AI features | React · Next.js · Gemini · Python |
 
 ---
 
-<p align="center">
-📌 <em>Actively seeking software engineering & full-stack internship opportunities.</em>
-</p>
+### 🛠️ Stack
+
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=d4f03c)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=d4f03c)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=d4f03c)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=d4f03c)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-111111?style=for-the-badge&logo=tailwindcss&logoColor=d4f03c)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=d4f03c)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=d4f03c)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-111111?style=for-the-badge&logo=springboot&logoColor=d4f03c)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=d4f03c)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=d4f03c)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=d4f03c)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=d4f03c)
+![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=d4f03c)
+![C#](https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=d4f03c)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=d4f03c)
+
+---
+
+
+<div align="center">
+
+
+*Actively seeking software engineering & full-stack internship opportunities*
+
+</div>
