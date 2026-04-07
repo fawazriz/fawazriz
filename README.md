@@ -19,7 +19,7 @@
 |---|---------|-------------|-------|
 | 001 | [**DealSniper**](https://github.com/fawazriz/DealSniperApp) | Full-stack price tracker — monitor products, set target prices, real-time deals via web scraping | React · Node.js · PostgreSQL · Puppeteer · JWT |
 | 002 | [**TenantShield**](https://github.com/fawazriz/TenantShield) | AI assistant for Canadian renters — understand tenant rights and navigate rental issues | Next.js · React · Gemini · TailwindCSS |
-| 003 | [**OlympiPredict**](https://github.com/fawazriz/OlympiPredict) | Data-driven prediction of Olympic outcomes using feature engineering and ML modeling | Python · Pandas · Scikit-learn |
+| 003 | [**OlympiPredict**](https://github.com/fawazriz/OlympiPredict) | Data-driven prediction of Olympic outcomes using feature engineering and ML modeling | Python · Pandas |
 | 004 | [**EduPro**](https://github.com/fawazriz/EduPro) | Education web app to streamline learning workflows with modern UI and AI features | React · Next.js · Gemini · Python |
 
 ---
